@@ -1,0 +1,44 @@
+{
+  "motorcycles": [
+    {
+      "id": 1,
+      "trademark": "Honda",
+      "model": "2020",
+      "reference": "CB-650-R",
+      "price": 5700000,
+      "image": "https://a5i4f6g5.stackpathcdn.com/images/cms/Gris-48571.png"
+    },
+    {
+      "id": 2,
+      "trademark": "Yamaha",
+      "model": "2020",
+      "reference": "Bws X Fi",
+      "price": "5000000",
+      "image": "https://yamaha-mundoyamaha.com/wp-content/uploads/2020/07/BwsxFi_color_naranja-v2.png"
+    },
+    {
+      "id": 3,
+      "trademark": "Suzuki",
+      "model": "2021",
+      "reference": "ACCESS 125 FI",
+      "price": 4200000,
+      "image": "https://suzuki.com.co/sites/default/files/2020-12/ROJOMATE.png"
+    },
+    {
+      "trademark": "Suzuki",
+      "model": "2021",
+      "reference": "NEW BEST 125 FI",
+      "price": "5000",
+      "image": "https://suzuki.com.co/sites/default/files/2021-03/SUZUKI%20NEW%20BEST%20125%20NEGRA-min.png",
+      "id": 4
+    },
+    {
+      "trademark": "SUZUKI",
+      "model": "2021",
+      "reference": "NEW GIXXER 150 ABS",
+      "price": "8500000",
+      "image": "https://suzuki.com.co/sites/default/files/2021-05/NEW-GIXXER-150-FI-ABS-NEGRA.png",
+      "id": 6
+    }
+  ]
+}
