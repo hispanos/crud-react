@@ -9,8 +9,7 @@ Puedes verlo [aquí](https://ejemplo.com).
 
 ![Vista desktop](https://i.imgur.com/T2NDoiN.jpg)
 
-
-![Vista mobile](https://i.imgur.com/i43uoFg.jpg) -->
+ -->
 
 
 ## 📌 Stack
