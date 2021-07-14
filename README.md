@@ -1,8 +1,6 @@
 # CRUD React - Axios - Json Server
 CRUD realizado con React usando axios para consumir una fake API construída en JSON Server. 
 
-Puedes verlo [aquí](https://ejemplo.com).
-
 ## 🔍 Vistas 
 
 <!-- ### 💻 Desktop
